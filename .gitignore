@@ -3,7 +3,6 @@ bin
 obj
 output
 tools
-externals
 *.userprefs
 *.DS_Store
 .vs/
