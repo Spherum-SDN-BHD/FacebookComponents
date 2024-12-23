@@ -7,7 +7,7 @@
     <RootNamespace>Facebook</RootNamespace>
     <AssemblyName>Facebook</AssemblyName>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <FileVersion>12.2.0.1</FileVersion>
+    <FileVersion>12.2.0.2</FileVersion>
     <IncludeBuildOutput>false</IncludeBuildOutput>
   </PropertyGroup>
 
@@ -34,10 +34,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CoreKit\CoreKit.csproj" PrivateAssets="None" />
-    <ProjectReference Include="..\LoginKit\LoginKit.csproj" PrivateAssets="None" />
+    <!--ProjectReference Include="..\CoreKit\CoreKit.csproj" PrivateAssets="None" />
+<ProjectReference Include="..\LoginKit\LoginKit.csproj" PrivateAssets="None" />
     <ProjectReference Include="..\ShareKit\ShareKit.csproj" PrivateAssets="None" />
-    <ProjectReference Include="..\GamingServicesKit\GamingServicesKit.csproj" PrivateAssets="None" />
+    <ProjectReference Include="..\GamingServicesKit\GamingServicesKit.csproj" PrivateAssets="None" />-->
   </ItemGroup>
 
 </Project>
