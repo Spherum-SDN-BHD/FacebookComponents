@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     name: Update NuGet package
     steps:
 
@@ -31,4 +31,4 @@ jobs:
           dotnet pack -c Release -o out
 
       - name: Push generated package to GitHub registry
-        run: dotnet nuget push ./Facebook.Andr/source/FacebookSdks/out/*.nupkg --skip-duplicate --no-symbols true
+        run: dotnet nuget push ./Facebook.Android/source/FacebookSdks/out/*.nupkg --skip-duplicate --no-symbols true
