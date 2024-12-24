@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     name: Update NuGet package
     steps:
 
@@ -27,8 +27,8 @@ jobs:
       - name: Build solution and generate NuGet package
         run: |  
           cd Facebook.Android/source/facebook-core/
-          dotnet workload install maui maui-android android
+          sudo dotnet workload install maui maui-android android
           dotnet pack -c Release -o out
 
       - name: Push generated package to GitHub registry
-        run: dotnet nuget push ./Facebook.Android/source/FacebookSdks/out/*.nupkg --skip-duplicate --no-symbols true
+        run: dotnet nuget push ./Facebook.Android/source/facebook-core/out/*.nupkg --skip-duplicate --no-symbols true
