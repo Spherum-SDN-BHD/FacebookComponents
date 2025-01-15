@@ -1,8 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-     <TargetFramework>net8.0-android</TargetFramework>
-     <SupportedOSPlatformVersion>30</SupportedOSPlatformVersion>
+     <TargetFramework>net9.0-android</TargetFramework>
+     <SupportedOSPlatformVersion>35</SupportedOSPlatformVersion>
      <Nullable>enable</Nullable>
      <ImplicitUsings>true</ImplicitUsings>
      <IsBindingProject>true</IsBindingProject>
@@ -20,14 +20,14 @@
     <Copyright>© Microsoft Corporation. All rights reserved.</Copyright>
     <PackageProjectUrl>https://go.microsoft.com/fwlink/?linkid=865581</PackageProjectUrl>
     <PackageLicenseUrl>https://go.microsoft.com/fwlink/?linkid=865585</PackageLicenseUrl>
-    <PackageVersion>12.2.0.2</PackageVersion> 
+    <PackageVersion>18.0.0</PackageVersion> 
     <PackageIconUrl>https://raw.githubusercontent.com/xamarin/FacebookComponents/master/icons/facebook-android_128x128.png</PackageIconUrl>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
 
   <ItemGroup>
-    <AndroidLibrary Include="..\..\externals\facebook-core-17.0.2.aar">
+    <AndroidLibrary Include="..\..\externals\facebook-core-18.0.0.aar">
     <Bind>False</Bind>
     </AndroidLibrary>
   </ItemGroup>
