@@ -53,10 +53,6 @@
 	<dict>
 		<key>Headers/FBSDKGamingServicesKit-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ck59WDwqHXwEbkQhCwu/qyEcfFQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			iGOFUGDjix0kY0b/O3r53jRxRIqyV0A/351Lw6JQzbU=
@@ -64,10 +60,6 @@
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RcfYODWKkwSfjquExaHk/cRIml8=
-			</data>
 			<key>hash2</key>
 			<data>
 			xU5/fentEmQB9yfV732WhvxAwPAjtFAjMHZByJEoFtE=
@@ -75,10 +67,6 @@
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EGOCzd56q0FU6INLIAfXGHSg83s=
-			</data>
 			<key>hash2</key>
 			<data>
 			vOvfqbCxxJUxaU5bFnQ1BwOC53ObENmRQn+3QTtFeeA=
@@ -86,10 +74,6 @@
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9jNsdLYvnfZfb/KVFqWxIGvz+EM=
-			</data>
 			<key>hash2</key>
 			<data>
 			hIkXyv6IshQwiWdQKfovx+bRaxaWmh8KCszNKlZI9+8=
@@ -97,10 +81,6 @@
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EGOCzd56q0FU6INLIAfXGHSg83s=
-			</data>
 			<key>hash2</key>
 			<data>
 			vOvfqbCxxJUxaU5bFnQ1BwOC53ObENmRQn+3QTtFeeA=
@@ -108,10 +88,6 @@
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RcfYODWKkwSfjquExaHk/cRIml8=
-			</data>
 			<key>hash2</key>
 			<data>
 			xU5/fentEmQB9yfV732WhvxAwPAjtFAjMHZByJEoFtE=
@@ -119,10 +95,6 @@
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/waE6A/F76LNC6Y4/whw/xcH4Jg=
-			</data>
 			<key>hash2</key>
 			<data>
 			d6VyCXTT9VG3ReRmOY4rVXPIcDgrT9lDv3bac4QxoyM=
@@ -130,10 +102,6 @@
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3mXqZPQAPGXVOpa/jD5x+GwNJR0=
-			</data>
 			<key>hash2</key>
 			<data>
 			IL6fSBs8rB+KOu/JT3dCrCXz6HyA8d+ZMFLEw3S4G2U=
@@ -141,10 +109,6 @@
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/waE6A/F76LNC6Y4/whw/xcH4Jg=
-			</data>
 			<key>hash2</key>
 			<data>
 			d6VyCXTT9VG3ReRmOY4rVXPIcDgrT9lDv3bac4QxoyM=
@@ -152,10 +116,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1INhvxTcxy84KlDnXm5rZBWREYQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZLerLpdS0BcLjtlp4pnVg4FZbcgvWbRh82p0T4wiB0E=

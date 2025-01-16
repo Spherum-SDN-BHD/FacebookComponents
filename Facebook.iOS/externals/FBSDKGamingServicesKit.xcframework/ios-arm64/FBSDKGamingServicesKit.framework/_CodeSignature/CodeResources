@@ -37,10 +37,6 @@
 	<dict>
 		<key>Headers/FBSDKGamingServicesKit-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3MnYSM16GKgciHLAUZL5M2yHOWM=
-			</data>
 			<key>hash2</key>
 			<data>
 			PhdIZsNdLhJ8IKx8hb4nmPKikiVmP65bQTmrJdNfVcQ=
@@ -48,10 +44,6 @@
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RcfYODWKkwSfjquExaHk/cRIml8=
-			</data>
 			<key>hash2</key>
 			<data>
 			xU5/fentEmQB9yfV732WhvxAwPAjtFAjMHZByJEoFtE=
@@ -59,10 +51,6 @@
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gkxFwHJZ14Ay/8TPJmJ3o2kyL54=
-			</data>
 			<key>hash2</key>
 			<data>
 			0kIvWX6Zg5J58t5yvg2DQpKskrWVKBf72Vb6hXGQ6tM=
@@ -70,10 +58,6 @@
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0Rbs67U8wykFmOevahVSPNdLaM0=
-			</data>
 			<key>hash2</key>
 			<data>
 			iibvS76HP3L56VJPT6qND9aEa47U4bRq7AMI3R0aX1M=
@@ -81,10 +65,6 @@
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gkxFwHJZ14Ay/8TPJmJ3o2kyL54=
-			</data>
 			<key>hash2</key>
 			<data>
 			0kIvWX6Zg5J58t5yvg2DQpKskrWVKBf72Vb6hXGQ6tM=
@@ -92,10 +72,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1INhvxTcxy84KlDnXm5rZBWREYQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZLerLpdS0BcLjtlp4pnVg4FZbcgvWbRh82p0T4wiB0E=

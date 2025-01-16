@@ -10,7 +10,7 @@
 		</data>
 		<key>ios-arm64/FBSDKGamingServicesKit.framework/FBSDKGamingServicesKit</key>
 		<data>
-		dwzrmo9oF4/JjxKvB/hco9Pbzj4=
+		EVwfFR+5T+GnedZ8h6NTw7sc8to=
 		</data>
 		<key>ios-arm64/FBSDKGamingServicesKit.framework/Headers/FBSDKGamingServicesKit-Swift.h</key>
 		<data>
@@ -40,97 +40,93 @@
 		<data>
 		1INhvxTcxy84KlDnXm5rZBWREYQ=
 		</data>
-		<key>ios-arm64/FBSDKGamingServicesKit.framework/_CodeSignature/CodeDirectory</key>
-		<data>
-		H9rzLxp0lpUc8Z4lMxlXfMzcMAM=
-		</data>
-		<key>ios-arm64/FBSDKGamingServicesKit.framework/_CodeSignature/CodeRequirements</key>
-		<data>
-		ucyVcJKfUnQgk97yZ2BqBYXpwxI=
-		</data>
-		<key>ios-arm64/FBSDKGamingServicesKit.framework/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		abDP/kCriIEV66eV/Fi3xUdwKIU=
-		</data>
 		<key>ios-arm64/FBSDKGamingServicesKit.framework/_CodeSignature/CodeResources</key>
 		<data>
-		g+e78USLlZ2uCM0D7r3Xi7ff2ps=
+		OmRJTEkRRvPEwW0y85mbj6iXzjI=
 		</data>
-		<key>ios-arm64/FBSDKGamingServicesKit.framework/_CodeSignature/CodeSignature</key>
+		<key>ios-arm64/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		An4RWp5yFHJ/BAlgSEsifw2e+Z4=
+		NJ/kBCOUZbdym1X9GTVKPMYH/kM=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/FBSDKGamingServicesKit</key>
+		<key>ios-arm64/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Resources/DWARF/FBSDKGamingServicesKit</key>
 		<data>
-		HK+VhOoeqNeKTOdHk8ltKM4lmUc=
+		Kkzb5TLaF5zlcNNhMRrp55UppPs=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Headers/FBSDKGamingServicesKit-Swift.h</key>
+		<key>ios-arm64/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Resources/Relocations/aarch64/FBSDKGamingServicesKit.yml</key>
+		<data>
+		kFlrRvmS+ECQ99FKQOuPu9buku8=
+		</data>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/FBSDKGamingServicesKit</key>
+		<data>
+		LgWkCPZDA6eL+L1+VDI/n9Jm66U=
+		</data>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Headers/FBSDKGamingServicesKit-Swift.h</key>
 		<data>
 		ck59WDwqHXwEbkQhCwu/qyEcfFQ=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
 		<data>
 		RcfYODWKkwSfjquExaHk/cRIml8=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<data>
 		+Uc/ldWA9zP0+24fUZRG9QLlLsk=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
 		<data>
 		pBVlXSKw8BB0inRwzLqQknVo/SQ=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<data>
 		+Uc/ldWA9zP0+24fUZRG9QLlLsk=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<data>
 		RcfYODWKkwSfjquExaHk/cRIml8=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<data>
 		TO5bzuyUeFrIgx0SoKelJr3Op9c=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<data>
 		J6mPfaxsNseChQK4w2B1hK6JwRo=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<data>
 		TO5bzuyUeFrIgx0SoKelJr3Op9c=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Modules/module.modulemap</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Modules/module.modulemap</key>
 		<data>
 		1INhvxTcxy84KlDnXm5rZBWREYQ=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Resources/Info.plist</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Resources/Info.plist</key>
 		<data>
 		umseSWeklsE9NU0kIyDLTsZjqZY=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/_CodeSignature/CodeDirectory</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/_CodeSignature/CodeResources</key>
 		<data>
-		ULVXECFsvi3EZtqOsQ0zVZ2zzR8=
+		JbpkcZ/AT/5RVzRcygS9oa1zmzQ=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/_CodeSignature/CodeRequirements</key>
+		<key>ios-arm64_x86_64-maccatalyst/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		ucyVcJKfUnQgk97yZ2BqBYXpwxI=
+		NJ/kBCOUZbdym1X9GTVKPMYH/kM=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/_CodeSignature/CodeRequirements-1</key>
+		<key>ios-arm64_x86_64-maccatalyst/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Resources/DWARF/FBSDKGamingServicesKit</key>
 		<data>
-		AYCmYY0fygQEiu+R9Wgfl347qpo=
+		xN0oIlheW8JLtcVO61kSOULDwfM=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/_CodeSignature/CodeResources</key>
+		<key>ios-arm64_x86_64-maccatalyst/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Resources/Relocations/aarch64/FBSDKGamingServicesKit.yml</key>
 		<data>
-		Mq/sfMVLd2t3EpghGuu62mXOGA4=
+		I+W4rdPhMrS+J4xiV9j1IOQJ9S8=
 		</data>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/_CodeSignature/CodeSignature</key>
+		<key>ios-arm64_x86_64-maccatalyst/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Resources/Relocations/x86_64/FBSDKGamingServicesKit.yml</key>
 		<data>
-		TRh/OnD6thDflK5xC6xSHijRoq0=
+		WaDbI5zoxzJqary6RG46ODPfziI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FBSDKGamingServicesKit.framework/FBSDKGamingServicesKit</key>
 		<data>
-		mCddMfUZ1A6Jm1Ib4hfOsgm4SkQ=
+		ZyxuINF1Qts3+1XjtuI0UfhM6a0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FBSDKGamingServicesKit.framework/Headers/FBSDKGamingServicesKit-Swift.h</key>
 		<data>
@@ -176,25 +172,25 @@
 		<data>
 		1INhvxTcxy84KlDnXm5rZBWREYQ=
 		</data>
-		<key>ios-arm64_x86_64-simulator/FBSDKGamingServicesKit.framework/_CodeSignature/CodeDirectory</key>
-		<data>
-		h0Mn0SZ6jqAzA1z9Uzb3dMGpb+Q=
-		</data>
-		<key>ios-arm64_x86_64-simulator/FBSDKGamingServicesKit.framework/_CodeSignature/CodeRequirements</key>
-		<data>
-		ucyVcJKfUnQgk97yZ2BqBYXpwxI=
-		</data>
-		<key>ios-arm64_x86_64-simulator/FBSDKGamingServicesKit.framework/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		o5Wg7jAOU64ig4khmdn4x4urwGk=
-		</data>
 		<key>ios-arm64_x86_64-simulator/FBSDKGamingServicesKit.framework/_CodeSignature/CodeResources</key>
 		<data>
-		B2MZhPUAvc9pLn5K8JgFSgZQC20=
+		3H8z1VURIO3Z54PG+Vm5zWBEmxI=
 		</data>
-		<key>ios-arm64_x86_64-simulator/FBSDKGamingServicesKit.framework/_CodeSignature/CodeSignature</key>
+		<key>ios-arm64_x86_64-simulator/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		G6SNwx01ctnKKeMuyGD/TAe64aY=
+		NJ/kBCOUZbdym1X9GTVKPMYH/kM=
+		</data>
+		<key>ios-arm64_x86_64-simulator/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Resources/DWARF/FBSDKGamingServicesKit</key>
+		<data>
+		ZcvDB7GNyeWud0HCVKlFGOTntwM=
+		</data>
+		<key>ios-arm64_x86_64-simulator/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Resources/Relocations/aarch64/FBSDKGamingServicesKit.yml</key>
+		<data>
+		pidkXnAVcfxbdFLMCEJgTfsFjoY=
+		</data>
+		<key>ios-arm64_x86_64-simulator/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Resources/Relocations/x86_64/FBSDKGamingServicesKit.yml</key>
+		<data>
+		Jz5OIyN0in994k2rp+QASPG6Kfw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -214,11 +210,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dwzrmo9oF4/JjxKvB/hco9Pbzj4=
+			EVwfFR+5T+GnedZ8h6NTw7sc8to=
 			</data>
 			<key>hash2</key>
 			<data>
-			4+JLpYGV+RHDETbDadwoc8LTblBh71+VfYrv+AOJ9Ac=
+			dPXFA9sK1eyneKuSiha45Uv/yHcpppJxhGc8AkMofOM=
 			</data>
 		</dict>
 		<key>ios-arm64/FBSDKGamingServicesKit.framework/Headers/FBSDKGamingServicesKit-Swift.h</key>
@@ -298,73 +294,82 @@
 			ZLerLpdS0BcLjtlp4pnVg4FZbcgvWbRh82p0T4wiB0E=
 			</data>
 		</dict>
-		<key>ios-arm64/FBSDKGamingServicesKit.framework/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			H9rzLxp0lpUc8Z4lMxlXfMzcMAM=
-			</data>
-			<key>hash2</key>
-			<data>
-			qlBk1tO0axPGmtop8QBR56nOpqKa7JgtGRzHEUFx4NY=
-			</data>
-		</dict>
-		<key>ios-arm64/FBSDKGamingServicesKit.framework/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ucyVcJKfUnQgk97yZ2BqBYXpwxI=
-			</data>
-			<key>hash2</key>
-			<data>
-			MtOljQlkueLc3EViusHAbK5jsuzIxDb/MEeawJz4Z+E=
-			</data>
-		</dict>
-		<key>ios-arm64/FBSDKGamingServicesKit.framework/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			abDP/kCriIEV66eV/Fi3xUdwKIU=
-			</data>
-			<key>hash2</key>
-			<data>
-			BBz1Qxz+BxX26+PZNFgMByj1QVvinBrQ/aFgPXoBYM8=
-			</data>
-		</dict>
 		<key>ios-arm64/FBSDKGamingServicesKit.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			g+e78USLlZ2uCM0D7r3Xi7ff2ps=
+			OmRJTEkRRvPEwW0y85mbj6iXzjI=
 			</data>
 			<key>hash2</key>
 			<data>
-			/sRg87oEKKYuBNZI8udP9h745AwFf/hKwST+t/Vdkoc=
+			g4qEugwB564RSuVaeBlEtpjSM/QpmhTLn2euQFeJj5Q=
 			</data>
 		</dict>
-		<key>ios-arm64/FBSDKGamingServicesKit.framework/_CodeSignature/CodeSignature</key>
+		<key>ios-arm64/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			An4RWp5yFHJ/BAlgSEsifw2e+Z4=
+			NJ/kBCOUZbdym1X9GTVKPMYH/kM=
 			</data>
 			<key>hash2</key>
 			<data>
-			85BOQyz01KJ1/GdROTgAe4LwZhUlPMndIUvaR7VUBUo=
+			sJGUN+IFB+dbEGXiUZxevFWEv/vCVukYqQtKRCQLDS4=
+			</data>
+		</dict>
+		<key>ios-arm64/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Resources/DWARF/FBSDKGamingServicesKit</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Kkzb5TLaF5zlcNNhMRrp55UppPs=
+			</data>
+			<key>hash2</key>
+			<data>
+			b4o7PUTIOa4D/0GrKIuTzaeQfBP7XSx6ac7e5PqRQQE=
+			</data>
+		</dict>
+		<key>ios-arm64/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Resources/Relocations/aarch64/FBSDKGamingServicesKit.yml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kFlrRvmS+ECQ99FKQOuPu9buku8=
+			</data>
+			<key>hash2</key>
+			<data>
+			8qgenGPCDvffC54gT73poqhDsARRfodzjBwSih//n9o=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/FBSDKGamingServicesKit</key>
 		<dict>
+			<key>symlink</key>
+			<string>Versions/Current/FBSDKGamingServicesKit</string>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Headers</key>
+		<dict>
+			<key>symlink</key>
+			<string>Versions/Current/Headers</string>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Modules</key>
+		<dict>
+			<key>symlink</key>
+			<string>Versions/Current/Modules</string>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Resources</key>
+		<dict>
+			<key>symlink</key>
+			<string>Versions/Current/Resources</string>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/FBSDKGamingServicesKit</key>
+		<dict>
 			<key>hash</key>
 			<data>
-			HK+VhOoeqNeKTOdHk8ltKM4lmUc=
+			LgWkCPZDA6eL+L1+VDI/n9Jm66U=
 			</data>
 			<key>hash2</key>
 			<data>
-			UoNEdjRRbo8WI0IQAmwFAKwxdUpK6qrziBOO5olccbU=
+			ow93QfxRLHUhUbhL0YobeI/Ha/a+a43VriLHm2WQ18U=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Headers/FBSDKGamingServicesKit-Swift.h</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Headers/FBSDKGamingServicesKit-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -375,7 +380,7 @@
 			iGOFUGDjix0kY0b/O3r53jRxRIqyV0A/351Lw6JQzbU=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -386,7 +391,7 @@
 			xU5/fentEmQB9yfV732WhvxAwPAjtFAjMHZByJEoFtE=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -397,7 +402,7 @@
 			R5sXeRl6Zkp0vkucwJsdVoME1waCYg42hpxvXCdljn0=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -408,7 +413,7 @@
 			mHPPEG+zmMvwCLPwAmh7zwddtCeefALLfqj+r5kMtJg=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -419,7 +424,7 @@
 			R5sXeRl6Zkp0vkucwJsdVoME1waCYg42hpxvXCdljn0=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -430,7 +435,7 @@
 			xU5/fentEmQB9yfV732WhvxAwPAjtFAjMHZByJEoFtE=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -441,7 +446,7 @@
 			LgG/pnXZS3KI58jO7RRFEmZIP7uHjBmrno5mTw6JD7E=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -452,7 +457,7 @@
 			yah5DuIRJ8y++VXF1RxA/23XKoM1Ez/kpN35pu7LmoE=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -463,7 +468,7 @@
 			LgG/pnXZS3KI58jO7RRFEmZIP7uHjBmrno5mTw6JD7E=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Modules/module.modulemap</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -474,7 +479,7 @@
 			ZLerLpdS0BcLjtlp4pnVg4FZbcgvWbRh82p0T4wiB0E=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Resources/Info.plist</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/Resources/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -485,70 +490,75 @@
 			j21fdEbqJOtf/XQUVGTzz5Fx6PZDMdhgX3LINEYxsoQ=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/_CodeSignature/CodeDirectory</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/A/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ULVXECFsvi3EZtqOsQ0zVZ2zzR8=
+			JbpkcZ/AT/5RVzRcygS9oa1zmzQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			lvmPWEKu87XGqwE9RcgXnRF6s62ukHUlAk4t7AvQgDA=
+			2ATCDBfzo00OD3/VLkj0buZRL0BZbd25y3+Oa3RVDzw=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/_CodeSignature/CodeRequirements</key>
+		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/Versions/Current</key>
+		<dict>
+			<key>symlink</key>
+			<string>A</string>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ucyVcJKfUnQgk97yZ2BqBYXpwxI=
+			NJ/kBCOUZbdym1X9GTVKPMYH/kM=
 			</data>
 			<key>hash2</key>
 			<data>
-			MtOljQlkueLc3EViusHAbK5jsuzIxDb/MEeawJz4Z+E=
+			sJGUN+IFB+dbEGXiUZxevFWEv/vCVukYqQtKRCQLDS4=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/_CodeSignature/CodeRequirements-1</key>
+		<key>ios-arm64_x86_64-maccatalyst/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Resources/DWARF/FBSDKGamingServicesKit</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AYCmYY0fygQEiu+R9Wgfl347qpo=
+			xN0oIlheW8JLtcVO61kSOULDwfM=
 			</data>
 			<key>hash2</key>
 			<data>
-			MuxXCmXuMTQOc/4HJCWfiUUVX1rXgzqpif5PnVipcS0=
+			ZCLlApXa4iYtm88bSTEBsTb6lTyM40V509wODqkrqT8=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/_CodeSignature/CodeResources</key>
+		<key>ios-arm64_x86_64-maccatalyst/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Resources/Relocations/aarch64/FBSDKGamingServicesKit.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Mq/sfMVLd2t3EpghGuu62mXOGA4=
+			I+W4rdPhMrS+J4xiV9j1IOQJ9S8=
 			</data>
 			<key>hash2</key>
 			<data>
-			8fpHeevXyyEMuraNx2aOdfMKmb8ALzStr4p19FVEEGE=
+			pUAxVMBLMsrEJz4U27rxp6uXNA3ooLxqjk5hJ3iorE8=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-maccatalyst/FBSDKGamingServicesKit.framework/_CodeSignature/CodeSignature</key>
+		<key>ios-arm64_x86_64-maccatalyst/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Resources/Relocations/x86_64/FBSDKGamingServicesKit.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TRh/OnD6thDflK5xC6xSHijRoq0=
+			WaDbI5zoxzJqary6RG46ODPfziI=
 			</data>
 			<key>hash2</key>
 			<data>
-			9NIpZeShOLmMgekO1VDRtk4ihr9RVq0FgSazOUG94uQ=
+			PwCMvZq2eXle4nHULl3FVzLbb781AQAlHU0WvVKf9oQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FBSDKGamingServicesKit.framework/FBSDKGamingServicesKit</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mCddMfUZ1A6Jm1Ib4hfOsgm4SkQ=
+			ZyxuINF1Qts3+1XjtuI0UfhM6a0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Fwq+dj/hJjANmqi9PjVXvfM7rkoe+VgdqFLmGfUOVEU=
+			UjklSU5O8+wYXYLHgmbCC9G44gzCRemSznM1VmxBxk8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FBSDKGamingServicesKit.framework/Headers/FBSDKGamingServicesKit-Swift.h</key>
@@ -672,59 +682,59 @@
 			ZLerLpdS0BcLjtlp4pnVg4FZbcgvWbRh82p0T4wiB0E=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/FBSDKGamingServicesKit.framework/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			h0Mn0SZ6jqAzA1z9Uzb3dMGpb+Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			nA6vDHX63NKm5zmEetUHGQUyydDvMpT5nvsRvtRKWE4=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/FBSDKGamingServicesKit.framework/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ucyVcJKfUnQgk97yZ2BqBYXpwxI=
-			</data>
-			<key>hash2</key>
-			<data>
-			MtOljQlkueLc3EViusHAbK5jsuzIxDb/MEeawJz4Z+E=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/FBSDKGamingServicesKit.framework/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			o5Wg7jAOU64ig4khmdn4x4urwGk=
-			</data>
-			<key>hash2</key>
-			<data>
-			65GGzt+d8L+eX/hZtaThAU9gRq/67w+06l8ypKd+8N8=
-			</data>
-		</dict>
 		<key>ios-arm64_x86_64-simulator/FBSDKGamingServicesKit.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			B2MZhPUAvc9pLn5K8JgFSgZQC20=
+			3H8z1VURIO3Z54PG+Vm5zWBEmxI=
 			</data>
 			<key>hash2</key>
 			<data>
-			fN+4YPFgcuUtyRxwJF+6nvRmUQzmWOD7RyP4SfbnTvc=
+			ltKFYbdoDlDrdvjnO5Ozo7ToKiLs4wsQYsUiUqGngZw=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/FBSDKGamingServicesKit.framework/_CodeSignature/CodeSignature</key>
+		<key>ios-arm64_x86_64-simulator/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			G6SNwx01ctnKKeMuyGD/TAe64aY=
+			NJ/kBCOUZbdym1X9GTVKPMYH/kM=
 			</data>
 			<key>hash2</key>
 			<data>
-			7Hz1zx5Qm60085Us+QBEyrLC/F0pEGfx+XyLNRIigtY=
+			sJGUN+IFB+dbEGXiUZxevFWEv/vCVukYqQtKRCQLDS4=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Resources/DWARF/FBSDKGamingServicesKit</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZcvDB7GNyeWud0HCVKlFGOTntwM=
+			</data>
+			<key>hash2</key>
+			<data>
+			haSX+u1292/Vw1+us9LU+p+9hCgI/LQuT6BYJL9Ko+s=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Resources/Relocations/aarch64/FBSDKGamingServicesKit.yml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pidkXnAVcfxbdFLMCEJgTfsFjoY=
+			</data>
+			<key>hash2</key>
+			<data>
+			zCYctZTscbT7gVUC0ow5i422Y1iQPcT2TwQg0Tzjeh0=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/dSYMs/FBSDKGamingServicesKit.framework.dSYM/Contents/Resources/Relocations/x86_64/FBSDKGamingServicesKit.yml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Jz5OIyN0in994k2rp+QASPG6Kfw=
+			</data>
+			<key>hash2</key>
+			<data>
+			qgeX0IionkCLp6aohzLfo7zIEBg3R2r228ueklHaEJ8=
 			</data>
 		</dict>
 	</dict>

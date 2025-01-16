@@ -57,10 +57,6 @@
 	<dict>
 		<key>Headers/FBAEMKit-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DSTW5xcVrndsThDrooe6v4sWabA=
-			</data>
 			<key>hash2</key>
 			<data>
 			ExT0qOgPAxGylyRJEWPIwQ0mqWOmyszTJ2hdRUsEejM=
@@ -68,10 +64,6 @@
 		</dict>
 		<key>Modules/FBAEMKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jIpzsulpmfli0PLQZ881X3f86+w=
-			</data>
 			<key>hash2</key>
 			<data>
 			2uD0lnw+T6Jd0pHhXMKuAg2PP77QPbLIloKG1FIqxYI=
@@ -79,10 +71,6 @@
 		</dict>
 		<key>Modules/FBAEMKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MTxAt6ZgnwDKZ7FFQWghq6D7PGs=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZfIGN0Q/x3nVuxntAY6Gq/+n/1f40gT/bdJKmdy6oGc=
@@ -90,10 +78,6 @@
 		</dict>
 		<key>Modules/FBAEMKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			synp6/Qeas50FWdWiV/xTBRXXOA=
-			</data>
 			<key>hash2</key>
 			<data>
 			2VsMY1HNMbXii8ciNbwM4D35tKXE7R3nU3wL6B752gM=
@@ -101,10 +85,6 @@
 		</dict>
 		<key>Modules/FBAEMKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MTxAt6ZgnwDKZ7FFQWghq6D7PGs=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZfIGN0Q/x3nVuxntAY6Gq/+n/1f40gT/bdJKmdy6oGc=
@@ -112,10 +92,6 @@
 		</dict>
 		<key>Modules/FBAEMKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jIpzsulpmfli0PLQZ881X3f86+w=
-			</data>
 			<key>hash2</key>
 			<data>
 			2uD0lnw+T6Jd0pHhXMKuAg2PP77QPbLIloKG1FIqxYI=
@@ -123,10 +99,6 @@
 		</dict>
 		<key>Modules/FBAEMKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dYVvQfkyT0tPlgsdWIo0G3W1czw=
-			</data>
 			<key>hash2</key>
 			<data>
 			/h2l+NH0of7I/sMebx0224zca+82k/05hGMOGVMDG+E=
@@ -134,10 +106,6 @@
 		</dict>
 		<key>Modules/FBAEMKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ixyz4f13PEQwnPgnz+7ZHp1UFlw=
-			</data>
 			<key>hash2</key>
 			<data>
 			VayeiXnrQLd37lGpjKQifOFM88Lh3NlzWj/DBHzd3Ms=
@@ -145,10 +113,6 @@
 		</dict>
 		<key>Modules/FBAEMKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dYVvQfkyT0tPlgsdWIo0G3W1czw=
-			</data>
 			<key>hash2</key>
 			<data>
 			/h2l+NH0of7I/sMebx0224zca+82k/05hGMOGVMDG+E=
@@ -156,10 +120,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Ci3QIdviXpIzxSC88i1rGvW2cSs=
-			</data>
 			<key>hash2</key>
 			<data>
 			jq+nSulDKiN4tenILjgXg82TzM040TCurYFTCVRKXxM=
@@ -167,10 +127,6 @@
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Fo7sebV/R02g8kqyPtqICO8eVyI=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZFIpWmrSklTJLGaAOPLGos/UQMB82oH4FOmWrCFbhBU=
