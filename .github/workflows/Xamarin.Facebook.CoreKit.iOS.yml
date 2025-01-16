@@ -26,9 +26,6 @@ jobs:
 
       - name: Build solution and generate NuGet package
         run: |  
-          cd Facebook.iOS/source/FacebookSdks/
-          
-          dotnet pack -c Release -o out
           cd Facebook.iOS/source/CoreKit/
           sudo dotnet workload install maui maui-ios ios
           dotnet pack -c Release -o out
